@@ -1,5 +1,3 @@
-Finding Relevant Information and Sources with AI-Enabled Content Analysis and Recommendation
-=======================================================================================================================================================
 
 In today's fast-paced digital world, finding relevant information for your writing can be a daunting task. However, with the help of AI-enabled content analysis and recommendation, this process can be streamlined and made more efficient.
 

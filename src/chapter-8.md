@@ -1,5 +1,3 @@
-Chapter 8: Conclusion
-=====================
 
 In this book, we have explored the ways in which AI can be used to supercharge writing practice. From NLG/NLP-powered writing assistants to AI-powered idea generation and brainstorming tools, AI has the potential to significantly improve productivity, creativity, and overall writing quality.
 

@@ -1,5 +1,3 @@
-Personalizing Writing Practice with AI-Enabled Adaptive Learning and Feedback
-==========================================================================================================================================
 
 One key area where AI can bring significant benefits to writing practice is in personalization. By leveraging AI-enabled adaptive learning and feedback, writers can receive personalized guidance and support as they work, helping them to improve their writing outcomes.
 

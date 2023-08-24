@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Supercharging Writing Practice
-===========================================================
 
 In this chapter, we will explore some of the key AI techniques that writers can use to supercharge their writing practice. By leveraging AI-enabled tools and techniques, writers can improve their creativity, productivity, and overall writing outcomes.
 

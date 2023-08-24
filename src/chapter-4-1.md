@@ -1,5 +1,3 @@
-Enhancing Creativity and Inspiration with AI-Enabled Idea Generation and Brainstorming
-===================================================================================================================================================
 
 One of the biggest challenges that writers face is coming up with fresh and original ideas. Fortunately, AI technologies can help supercharge the writing practice by providing new sources of inspiration and facilitating more efficient brainstorming.
 

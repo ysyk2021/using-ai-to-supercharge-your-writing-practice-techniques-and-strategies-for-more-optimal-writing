@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Practice
-===============================================
 
 Artificial Intelligence (AI) has had a significant impact on the field of writing practice. Writers are now empowered to achieve more ambitious writing goals and visions, enrich their writing outputs with greater creativity and originality, and facilitate continuous learning and improvement in their writing practice.
 

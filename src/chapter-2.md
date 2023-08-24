@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Practice
-===========================================================
 
 In this chapter, we will explore the basic concepts and processes of AI algorithms for writing analysis and enhancement. We will also discuss different types of AI techniques and applications for writing practice, as well as tools and platforms for AI-enabled writing practice.
 

@@ -1,5 +1,3 @@
-The Future of AI in Writing Practice
-===========================================================
 
 In this book, we've explored the ways in which AI technology is transforming the writing process and how writers can supercharge their practice to achieve more optimal writing outcomes. In this final chapter, we will discuss the future of AI in writing practice and what it means for the future of written content.
 

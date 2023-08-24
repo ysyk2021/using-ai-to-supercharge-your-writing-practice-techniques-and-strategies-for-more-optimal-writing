@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Practice
-==========================================================
 
 As writers increasingly incorporate AI technologies into their writing practice, it is important to evaluate the impact of these technologies on overall writing performance. In this chapter, we will explore how to measure the ROI and effectiveness of AI implementation in writing practice, and identify key performance metrics and goals for AI-enhanced writing practice.
 
@@ -30,5 +28,4 @@ When implementing AI technologies in writing practice, it is important to identi
 By setting specific, measurable goals and tracking relevant metrics, writers can ensure they are effectively leveraging AI technologies to achieve optimal writing outcomes.
 
 Overall, evaluating the impact of AI on writing practice requires careful consideration of the ROI and effectiveness of AI implementation, as well as identification of key performance metrics and goals that align with specific writing objectives. By tracking relevant metrics and making adjustments as needed, writers can ensure they are maximizing the benefits of AI-enhanced writing practice.
-
 

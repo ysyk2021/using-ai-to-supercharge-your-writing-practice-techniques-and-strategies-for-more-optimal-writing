@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Practice
-================================================================================================================
 
 In this chapter, we will explore some of the tools and platforms available for AI-enabled writing practice. By understanding these tools and platforms, writers can leverage AI to improve their productivity, creativity, and overall writing outcomes.
 
