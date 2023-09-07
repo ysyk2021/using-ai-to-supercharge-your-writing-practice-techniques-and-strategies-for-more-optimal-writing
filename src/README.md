@@ -10,3 +10,7 @@ Through real-world examples and case studies, readers will gain an understanding
 By mastering these innovative techniques and strategies, readers will be able to unlock their full potential as writers and achieve more ambitious writing goals and visions. With the help of AI, writers can take their craft to new heights and produce written content that is more creative, compelling, and impactful than ever before.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
