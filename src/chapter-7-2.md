@@ -1,5 +1,4 @@
-Chapter 2: Identifying Key Performance Metrics and Goals for AI-Enhanced Writing Practice
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To supercharge your writing practice with the help of Artificial Intelligence (AI), it's essential to establish clear goals and metrics for measuring your progress. In this chapter, we will explore how to identify the key performance metrics and set goals that align with AI-enhanced writing practice, enabling you to track your journey toward more optimal writing outcomes.
 

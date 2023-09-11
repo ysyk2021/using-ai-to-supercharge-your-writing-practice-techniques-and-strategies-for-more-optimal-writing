@@ -1,5 +1,4 @@
-Chapter 5: Enriching Writing Outputs with Greater Creativity, Originality, and Impact
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into advanced techniques and strategies for writers to supercharge their writing practice using Artificial Intelligence (AI). We'll explore how AI can assist in infusing creativity, originality, and impactful elements into your writing.
 

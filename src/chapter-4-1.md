@@ -1,5 +1,4 @@
-Chapter 3: Enhancing Creativity and Inspiration with AI-Enabled Idea Generation and Brainstorming
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting ways in which Artificial Intelligence (AI) can serve as a powerful tool to boost creativity and inspiration in your writing practice. By leveraging AI-enabled idea generation and brainstorming techniques, you can take your writing to new heights of originality and innovation.
 

@@ -1,5 +1,4 @@
-Chapter 4: Personalizing Writing Practice with AI-Enabled Adaptive Learning and Feedback
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the exciting realm of personalized writing practice, made possible through the integration of Artificial Intelligence (AI). Discover how AI-driven adaptive learning and feedback mechanisms can tailor your writing journey to your unique needs and preferences, ultimately leading to more optimal writing outcomes.
 

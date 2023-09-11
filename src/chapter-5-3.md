@@ -1,5 +1,4 @@
-Chapter 6: Leveraging AI-Enabled Virtual Writing Assistants for Feedback, Suggestions, and Collaboration
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the world of AI-enabled virtual writing assistants and explore how they can be harnessed to provide valuable feedback, suggestions, and collaboration opportunities to supercharge your writing practice. Discover the power of AI-driven virtual companions in achieving more optimal writing outcomes.
 

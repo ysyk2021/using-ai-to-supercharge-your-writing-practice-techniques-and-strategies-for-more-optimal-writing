@@ -1,5 +1,4 @@
-Chapter 7: Empowering Writers to Achieve More Ambitious Writing Goals and Visions
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which Artificial Intelligence (AI) can empower writers to reach for more ambitious writing goals and bring their grand writing visions to life. Discover how AI-driven tools and strategies can expand your creative horizons and enable you to achieve extraordinary writing outcomes.
 

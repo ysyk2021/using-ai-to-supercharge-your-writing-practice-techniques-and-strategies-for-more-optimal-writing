@@ -1,5 +1,4 @@
-Chapter 6: Facilitating Continuous Learning and Improvement in Writing Practice
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the integration of Artificial Intelligence (AI) can empower writers to embark on a journey of continuous learning and improvement in their writing practice. Discover how AI-driven tools and strategies can enhance your skills, refine your craft, and lead to more optimal writing outcomes over time.
 

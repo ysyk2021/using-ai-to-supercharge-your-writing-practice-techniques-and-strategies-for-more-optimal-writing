@@ -1,5 +1,4 @@
-Chapter 5: Creating a Customized Roadmap for AI Implementation in Your Writing Strategy
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to create a customized roadmap for implementing AI in your writing practice. Leveraging artificial intelligence can significantly enhance your writing outcomes, but it's essential to have a well-thought-out plan to make the most of these tools. We will break down the process into actionable steps and strategies to ensure a seamless integration of AI into your writing workflow.
 

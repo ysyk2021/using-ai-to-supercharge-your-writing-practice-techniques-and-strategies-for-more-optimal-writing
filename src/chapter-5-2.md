@@ -1,5 +1,4 @@
-Chapter 3: Optimizing Productivity and Efficiency with AI-Enabled Planning and Task Management
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of optimal writing outcomes, productivity and efficiency are paramount. This chapter explores how AI-enabled planning and task management can be harnessed to supercharge your writing practice, helping you achieve your writing goals with greater ease and precision.
 

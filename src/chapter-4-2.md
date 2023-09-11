@@ -1,5 +1,4 @@
-Chapter 5: Improving Writing Style and Language with AI-Enabled Natural Language Processing and Generation
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of Natural Language Processing (NLP) and Generation (NLG) powered by Artificial Intelligence (AI) on enhancing writing style and language proficiency. Discover how AI-driven NLP and NLG techniques can elevate your writing to new levels of excellence, leading to more optimal writing outcomes.
 

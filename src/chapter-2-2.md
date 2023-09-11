@@ -1,5 +1,4 @@
-Chapter 3: Different Types of AI Techniques and Applications for Writing Practice
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse range of AI techniques and applications that can supercharge your writing practice. Discover how various AI-powered tools and strategies can help you enhance your writing skills and achieve more optimal writing outcomes.
 
